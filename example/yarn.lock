@@ -3380,9 +3380,10 @@ number-is-nan@^1.0.0:
   version "1.4.2"
   resolved "https://registry.yarnpkg.com/nwmatcher/-/nwmatcher-1.4.2.tgz#c5e545ab40d22a56b0326531c4beaed7a888b3ea"
 
-oauth-1.0a@^2.2.2:
-  version "2.2.2"
-  resolved "https://registry.yarnpkg.com/oauth-1.0a/-/oauth-1.0a-2.2.2.tgz#9836a9f957d1f4c6b66661cc61c8f22763a05c83"
+oauth-1.0a@^2.2.6:
+  version "2.2.6"
+  resolved "https://registry.yarnpkg.com/oauth-1.0a/-/oauth-1.0a-2.2.6.tgz#eadbccdb3bceea412d24586e6f39b2b412f0e491"
+  integrity sha512-6bkxv3N4Gu5lty4viIcIAnq5GbxECviMBeKR3WX/q87SPQ8E8aursPZUtsXDnxCs787af09WPRBLqYrf/lwoYQ==
 
 oauth-sign@~0.8.1, oauth-sign@~0.8.2:
   version "0.8.2"
